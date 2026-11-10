@@ -1,0 +1,6 @@
+{
+  "name": "最后一杯酒 - 像素叙事酒馆",
+  "description": "窗外细雨蒙蒙，壁炉火光微跳。倒上一杯麦酒，倾听客人们的低语醉话与隐秘往事，在群像交错中拼凑失落传说的像素叙事挂机游戏。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
